@@ -1,0 +1,16 @@
+.SidebarLayout {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1.5em;
+  padding: 0.5em 2em;
+
+  .sidebarLayout-text {
+    margin-left: 0.5em;
+  }
+}
+
+.SidebarLayout:hover {
+  background-color: #87cefa;
+  border-radius: 999px;
+  color: blue;
+}
