@@ -1,6 +1,6 @@
 # twitter-clone 🐤
 
-Twitter clone with CRUD functionalities on Users, Tweets and Messages (with Socket.IO)
+Twitter clone with CRUD functionalities,
 Test users filled with real Twitter API data.
 
 _________________________
