@@ -9,7 +9,7 @@ _________________________
 HTML5, CSS3, SASS, React.js
 
 ### 🖥️ Backend
-Node.js, Express, Bcrypt, Knex, Google Cloud Engine, Socket.IO
+Node.js, Express, Bcrypt, Knex
 
 ### 💾 Database
 PostgreSQL
